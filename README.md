@@ -4,7 +4,7 @@ Hi 👋 My name is Juan
 I have been learning to code for about 4 years now. I started with HTML, but little by little I discovered other technologies that involved me in a world full of possibilities.
 
 *   🌍  I'm based in Caracas
-*   ✉️  You can contact me at [entropiccatdev@gmail.com](mailto:juanitogye@gmail.com)
+*   ✉️  You can contact me at [juanitogye@gmail.com](mailto:juanitogye@gmail.com)
 *   🧠  I'm learning React
 *   ⚡  I love Cats
 
