@@ -1,33 +1,54 @@
-Hi 👋 My name is Juan
-=====================
+# Hi 👋 I'm Juan Rodriguez
+### Systems Engineering Student & Full-Stack Developer
 
-I have been learning to code for about 4 years now. I started with HTML, but little by little I discovered other technologies that involved me in a world full of possibilities.
+I am a passionate developer focused on creating efficient digital solutions. Currently, I am pursuing a degree in Systems Engineering, combining my professional background in quality analysis with modern web technologies to build robust applications.
 
-*   🌍  I'm based in Caracas
-*   ✉️  You can contact me at [juanitogye@gmail.com](mailto:juanitogye@gmail.com)
-*   🧠  I'm learning React
-*   ⚡  I love Cats
+---
 
-### Skills<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+### 🚀 About Me
 
-                    
-### Socials                  
-                  
+- 🌍 Based in **Caracas, Venezuela**.
+- 🎓 Studying **Systems Engineering** at Universidad Nacional Abierta (UNA).
+- 🧠 Deepening my expertise in **Node.js, TypeScript, and Data Analysis**.
+- 🔭 Passionate about **Physics, Astronomy, and Aerospace Engineering**.
+- ⚡ I believe in logic, continuous learning, and the power of well-structured code.
+- 🐈 Proud cat lover.
+
+### 🛠️ Tech Stack
+
+**Frontend**
 <p align="left">
-  <a href="https://www.github.com/juan2284" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+**Backend & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### Badges
+---
 
-<a href="http://www.github.com/juan2284"><img src="https://github-readme-stats.vercel.app/api?username=juan2284&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juan2284's GitHub stats" /></a>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juan2284&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan2284&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-### My GitHub Stats
+---
 
-<a href="https://github.com/juan2284" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan2284&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:juangye2284@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/juan-rafael84"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
